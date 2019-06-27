@@ -1,3 +1,10 @@
+###
+ # @description: 
+ # 
+ # @package: 
+ # @author: KusTa
+ # @since: 2019-06-28 06:17:23
+###
 #!/bin/sh
 eval `dbus export ss`
 source /koolshare/scripts/base.sh
